@@ -1,16 +1,66 @@
-# React + Vite
+# 🌤️ Cloudy Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and feature-rich weather application built with React, Vite, and Tailwind CSS. It provides real-time weather updates, local time tracking, and interactive weather details for any location worldwide.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Check out the live application here:
+👉 [Cloudy Weather Live](https://jahir-tawhid.github.io/Cloudy-Weather/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Real-Time Weather Data:** Search for current weather conditions of any city using the OpenWeatherMap API.
+- **Live Local Clock:** Displays precise local time and timezone adjustments for searched locations.
+- **Responsive Design:** Fully optimized for both desktop and mobile devices.
+- **Interactive UI:** Smooth transitions, dynamic weather icons, and engaging animations using Lottie.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **Icons & Animations:** Lottie Web, Lucide React
+- **API:** OpenWeatherMap API
+- **Deployment:** GitHub Pages
+
+---
+
+## ⚙️ Getting Started Locally
+
+To run this project on your local machine, follow these simple steps:
+
+### 1. Clone the repository
+
+```bash
+git clone [https://github.com/jahir-tawhid/Cloudy-Weather.git](https://github.com/jahir-tawhid/Cloudy-Weather.git)
+```
+
+2. Navigate to the project directory:
+
+```
+  https://jahir-tawhid.github.io/Cloudy-Weather/```
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Run the development server:
+   ```
+   npm run dev
+   ```
+   📦 Deployment
+   To build and deploy the project to GitHub Pages, run:
+
+```
+npm run deploy
+```
+
+👨‍💻 Author:
+
+Md. Jahirul Islam
+
+GitHub: @jahir-tawhid
