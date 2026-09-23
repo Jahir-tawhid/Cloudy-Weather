@@ -5,7 +5,7 @@ A modern, responsive, and feature-rich weather application built with React, Vit
 ## 🚀 Live Demo
 
 Check out the live application here:
-👉 [Cloudy Weather Live](https://jahir-tawhid.github.io/Cloudy-Weather/)
+👉https://jahir-tawhid.github.io/Cloudy-Weather/
 
 ---
 
@@ -42,7 +42,8 @@ git clone [https://github.com/jahir-tawhid/Cloudy-Weather.git](https://github.co
 2. Navigate to the project directory:
 
 ```
-  https://jahir-tawhid.github.io/Cloudy-Weather/```
+Cloudy-Weather
+```
 
 3. Install dependencies:
    ```
